@@ -47,3 +47,33 @@ Demo介绍：仿微博点击加号按钮弹出视图（swift和OC 版本）
 Demo介绍：画中国地图和各省市地图
 
 ![image](https://raw.githubusercontent.com/wanggang1128/WGMapKit/master/WGMap/demo.gif)
+
+###  [No.9 HXSuspendViewManager](https://github.com/hxwxww/HXSuspendViewManager) 
+Demo介绍：HXSuspendViewManager是一个单例，负责主要的逻辑，控制悬浮窗和扇形view的生命周期、展示和隐藏。
+HXSuspendViewController是一个协议，只要你的控制器遵守了这个协议，你的控制器就可以添加到悬浮窗中。
+UINavigationController+HXSuspend是UINavigationController的分类，悬浮窗相关的处理逻辑都在这里。
+HXCircleTransition是自定义转场动画类
+HXSuspendWindow悬浮窗的视图，继承自UIWindow
+HXCircularSectorView右下角的扇形view
+
+![image](https://raw.githubusercontent.com/hxwxww/HXSuspendViewManager/master/screenshots/screenshot1.gif)
+
+###  [No.10 RPSimpleTagLabelView](https://github.com/RollingPin/RPSimpleTagLabelView) 
+Demo介绍：一个超简单的云便签view,可自定义各种样式
+
+![image](https://github.com/RollingPin/RPSimpleTagLabelView/blob/master/RPSimpleTagLabelView/RPSimpleTagLabelView/gif_show.gif)
+
+###  [No.11 LXAnimateLoginDemo](https://github.com/nick8brown/LXAnimateLoginDemo.git) 
+Demo介绍：仿QQ登录，短视频播放效果，可以自定义是否每次启动都播放改动画效果
+
+![image](http://code.cocoachina.com/uploads/attachments/20181207/137905/fd94151c4387368e9287689d36701d0d.png)
+
+###  [No.12 HEPhotoPicker](https://github.com/heyode/HEPhotoPicker) 
+Demo介绍：仿QQ登录，短视频播放效果，可以自定义是否每次启动都播放改动画效果
+
+![image](https://github.com/heyode/HEPhotoPicker/blob/master/ExampleImage/image%26video.gif)
+
+###  [No.13 TLTransitions](https://github.com/LoongerTao/TLTransitions) 
+Demo介绍：模仿AppStore卡片转场动画，及手势交互
+
+![image](http://code.cocoachina.com/uploads/attachments/20181203/137889/466affdc781e876d8e7e704cf515ef19.gif)
