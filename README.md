@@ -77,3 +77,13 @@ Demo介绍：仿QQ登录，短视频播放效果，可以自定义是否每次�
 Demo介绍：模仿AppStore卡片转场动画，及手势交互
 
 ![image](http://code.cocoachina.com/uploads/attachments/20181203/137889/466affdc781e876d8e7e704cf515ef19.gif)
+
+###  [No.14 LXWaveViewDemo](https://github.com/nick8brown/LXWaveViewDemo.git) 
+Demo介绍：个人中心波浪效果
+
+![image](http://code.cocoachina.com/uploads/attachments/20181203/137888/66e52585bb9552506522b90ec01a9ee3.png)
+
+###  [No.15 MALaunchView](https://github.com/lztbwlkj/MSLaunchView) 
+Demo介绍：一键合成APP引导页，包含不同状态下的引导页操作方式，支持动态图片、静态图片、短视频引导页，支持跳过按钮，立即体验按钮完全自定义
+
+![image](https://github.com/lztbwlkj/MSLaunchView/blob/master/Demo/MSLaunchView/DesignSketchGIF/Untitled-1.gif)
