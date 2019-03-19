@@ -87,3 +87,53 @@ Demo介绍：个人中心波浪效果
 Demo介绍：一键合成APP引导页，包含不同状态下的引导页操作方式，支持动态图片、静态图片、短视频引导页，支持跳过按钮，立即体验按钮完全自定义
 
 ![image](https://github.com/lztbwlkj/MSLaunchView/blob/master/Demo/MSLaunchView/DesignSketchGIF/Untitled-1.gif)
+
+###  [No.16 ZRAnimation](https://github.com/zhaojijin/ZRAnimation) 
+Demo介绍：生日动画
+
+![image](https://github.com/zhaojijin/ZRAnimation/blob/master/Birthday.gif)
+
+###  [No.17 JKCollectionViewMoreCurve](https://gitee.com/JKWC/JKCollectionViewMoreCurve.git) 
+Demo介绍：仿照豆瓣的CollectionView左边滑动加载更多
+
+![image](http://code.cocoachina.com/uploads/attachments/20181030/137790/89ee72197dd1d0f5f855c4e13a103853.gif)
+
+###  [No.18 AxcDrawPath_Tool](https://github.com/axclogo/AxcDrawPath_Tool) 
+Demo介绍：AxcDrawPath_Tool是一个快速贝塞尔曲线绘制工具，其中有现成的图案API可供直接调用，返回对象为 UIBezierPath 。
+
+![image](http://code.cocoachina.com/uploads/attachments/20181029/137785/15a5f026839628bba425553b226951c1.gif)
+
+###  [No.19 GHDropMenuDemo](https://github.com/shabake/GHDropMenuDemo) 
+Demo介绍：仿京东/美团筛选菜单
+
+![image](http://code.cocoachina.com/uploads/attachments/20181217/137924/55bab3fc7a9c1f675007e667f32d7343.gif)
+
+###  [No.20 GKDYVideo](https://github.com/QuintGao/GKDYVideo) 
+Demo介绍：仿抖音上下滑动播放视频
+
+![image](http://code.cocoachina.com/uploads/attachments/20180928/137700/6d61bfc1b18b447532a469f2e535abbb.gif)
+
+###  [No.21 HonorTree](https://github.com/Cesaradu/HonorTree) 
+Demo介绍：炫酷的动画
+
+![image](http://code.cocoachina.com/uploads/attachments/20180928/137700/6d61bfc1b18b447532a469f2e535abbb.gif)
+
+###  [No.22 JXBWKWebView](https://github.com/xiubojin/JXBWKWebView) 
+Demo介绍：功能丰富的WebView
+
+![image](http://code.cocoachina.com/uploads/attachments/20180919/137670/e51d85634b80f3cdda7bd3bc114b7bde.gif)
+
+###  [No.23 AppStoreTodayAnimation](https://github.com/baozoudiudiu/AppStoreTodayAnimation) 
+Demo介绍：高仿App Store首页转场动画
+
+![image](https://raw.githubusercontent.com/baozoudiudiu/AppStoreTodayAnimation/master/AppStoreListTest/example.gif)
+
+###  [No.24 ZKTreeTableView](https://github.com/bestDew/ZKTreeTableView) 
+Demo介绍：树状结构列表
+
+![image](https://raw.githubusercontent.com/bestDew/ZKTreeTableView/master/ZKTreeTableView/Untitled.gif)
+
+###  [No.22 YZAudioCountDownView](https://github.com/yitezh/YZAudioCountDownView) 
+Demo介绍：类似抖音卡节拍界面
+
+![image](http://code.cocoachina.com/uploads/attachments/20180827/137575/75c16854a9eb8143948f8a31ecf12bb6.gif)
