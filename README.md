@@ -133,7 +133,31 @@ Demo介绍：树状结构列表
 
 ![image](https://raw.githubusercontent.com/bestDew/ZKTreeTableView/master/ZKTreeTableView/Untitled.gif)
 
-###  [No.22 YZAudioCountDownView](https://github.com/yitezh/YZAudioCountDownView) 
+###  [No.25 YZAudioCountDownView](https://github.com/yitezh/YZAudioCountDownView) 
 Demo介绍：类似抖音卡节拍界面
 
 ![image](http://code.cocoachina.com/uploads/attachments/20180827/137575/75c16854a9eb8143948f8a31ecf12bb6.gif)
+
+###  [No.26 YWPersonDemo](https://github.com/china-han/YWPersonDemo) 
+Demo介绍：仿简书微博等个人主页，在此基础上加上头部轮播及下拉轮播放大效果，并且允许左右滑动，如果手势在轮播上，允许左右滑动轮播滚动，上下滑动整体视图滚动，并且附带导航栏渐变效果，本demo下面的可滚动区域支持UITableView，UiScrollView，UICollectionView等视图，瀑布流等也允许
+
+![image](https://github.com/china-han/YWPersonDemo/blob/master/image/person1.gif)
+
+###  [No.27 YSMContainerView](https://github.com/yisimeng/YSMContainerView) 
+Demo介绍：仿照微博个人页效果实现，可扩展性强，易于接入 
+思路介绍：https://github.com/yisimeng/Pieces/blob/master/mind/YSMContainerView.md
+
+![image](https://github.com/yisimeng/YSMContainerView/blob/master/containerView.gif)
+
+###  [No.28 GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) 
+Demo介绍：类似微博、简书、网易云个人主页的页面滑动效果
+简书地址：https://www.jianshu.com/p/5ce57fccdc03
+
+![image](https://github.com/QuintGao/GKPageScrollView/blob/master/Pictures/wb.gif)
+
+
+###  [No.29 XMLYFM](https://github.com/daomoer/XMLYFM) 
+Demo介绍：Swift仿写喜马拉雅FM
+掘金地址：https://juejin.im/post/5b97743df265da0af21351aa
+
+![image](https://github.com/daomoer/XMLYFM/blob/master/XMLYFM/%E6%95%88%E6%9E%9C%E5%9B%BE/gif.gif)
