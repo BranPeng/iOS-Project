@@ -161,3 +161,8 @@ Demo介绍：Swift仿写喜马拉雅FM
 掘金地址：https://juejin.im/post/5b97743df265da0af21351aa
 
 ![image](https://github.com/daomoer/XMLYFM/blob/master/XMLYFM/%E6%95%88%E6%9E%9C%E5%9B%BE/gif.gif)
+
+###  [No.30 BBGestureBack](https://github.com/Bonway/BBGestureBack) 
+Demo介绍：侧滑返回
+
+![image](https://camo.githubusercontent.com/ec5c6f11dafc43e5e03b43eb09e708a53fc0af41/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f31303939313737302d343066633866373462383964666638322e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
